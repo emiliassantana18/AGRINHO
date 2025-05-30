@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Campo e Cidade</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Festejando a Conexão Campo-Cidade</h1>
+    <p>Um encontro entre raízes e ritmo urbano.</p>
+    <img src="https://images.pexels.com/photos/2132250/pexels-photo-2132250.jpeg" alt="Paisagem rural com cidade ao fundo"/>
+  </header>
+
+  <main>
+    <section>
+      <h2>Importância da Conexão</h2>
+      <article>
+        <h3>Colheita e Consumo</h3>
+        <p>O que nasce no campo move a cidade — e o que se pensa na cidade transforma o campo. Essa troca é essencial para nosso futuro.</p>
+      </article>
+      <article>
+        <h3>Cultura Compartilhada</h3>
+        <p>O campo planta mais do que alimentos: planta cultura, memórias e saberes. A cidade colhe essas ideias e as espalha em formas novas.</p>
+      </article>
+    </section>
+
+    <section>
+      <h2>Vantagens de Estar Conectado</h2>
+      <article>
+        <h3>Inovação e Tradição</h3>
+        <p>O campo com tecnologia. A cidade com raízes. A conexão entre os dois impulsiona soluções sustentáveis.</p>
+      </article>
+      <article>
+        <h3>Resiliência</h3>
+        <p>Quando campo e cidade se apoiam, todos ganham. Mais segurança alimentar, menos desperdício, mais vida.</p>
+      </article>
+    </section>
+
+    <section>
+      <h2>Conclusão</h2>
+      <p>Não existe cidade forte sem campo vivo. Não existe campo saudável sem cidade consciente. Essa conexão é o caminho.</p>
+      <iframe src="https://www.youtube.com/embed/Bfx_E3zvnjc" title="Vídeo" allowfullscreen></iframe>
+    </section>
+  </main>
+
+  <footer>
+    <a href="#" class="cta-footer">Explorar Conexões</a>
+    <p>2025 | @femascheti</p>
+  </footer>
+</body>
+</html>
