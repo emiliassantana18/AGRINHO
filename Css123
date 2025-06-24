@@ -28,7 +28,7 @@ h1 {
   transition: transform 0.4s ease-in-out;
 }
 h1:hover {
-  transform: scale(1.05) rotate(-1deg);
+  transform: scale(1.05) translate(10px,10px);
 }
 
 p {
@@ -43,7 +43,6 @@ img {
   height: auto;
   margin: 1.5rem 0;
   border-radius: 8px;
-  animation: sway 6s ease-in-out infinite alternate;
 }
 
 @keyframes sway {
@@ -91,11 +90,6 @@ iframe {
   border: none;
   border-radius: 8px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-  transition: transform 0.4s ease-in-out;
-}
-
-iframe:hover {
-  transform: scale(1.01) rotate(-0.3deg);
 }
 
 /* Botão com efeito pulsante */
